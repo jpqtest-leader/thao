@@ -1,4 +1,4 @@
-# thao
+# thao_dieu_edited
 # レイアウト変更(表紙)画面
 
 <img src="images/screen/layout_change_cover.png" width="300">
