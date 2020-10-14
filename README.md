@@ -1,5 +1,5 @@
-# thao
-# レイアウト変更(表紙)画面
+# thao_dieu_edited
+# abcdef
 
 <img src="images/screen/layout_change_cover.png" width="300">
 
